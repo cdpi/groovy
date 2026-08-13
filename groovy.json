@@ -1,0 +1,15 @@
+{
+"props":
+	{
+	"ascent": 800,
+	"descent": 200,
+	"em": 1000,
+	"family": "Groovy"
+	},
+"input": "svg",
+"output": ["groovy.ttf"],
+"glyphs":
+	{
+	"0x41": {"src": "a.svg", "width": 440}
+	}
+}
