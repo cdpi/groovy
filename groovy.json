@@ -7,9 +7,25 @@
 	"family": "Groovy"
 	},
 "input": "svg",
-"output": ["groovy.ttf"],
+"output":
+	[
+	"groovy.ttf",
+	"groovy.otf",
+	"groovy.woff",
+	"groovy.woff2"
+	],
 "glyphs":
 	{
-	"0x41": {"src": "a.svg", "width": 440}
+	"0x41":
+		{
+		"src": "a.svg",
+		"width": 440
+		},
+
+	"0x61":
+		{
+		"src": "a.svg",
+		"width": 440
+		}
 	}
 }
