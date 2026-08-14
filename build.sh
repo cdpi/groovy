@@ -2,10 +2,10 @@
 
 ./svgs2ttf groovy.json
 
-cp groovy.ttf docs/fonts/groovy.ttf
-cp groovy.otf docs/fonts/groovy.otf
-cp groovy.woff docs/fonts/groovy.woff
-cp groovy.woff2 docs/fonts/groovy.woff2
+cp fonts/groovy.ttf docs/fonts/groovy.ttf
+cp fonts/groovy.otf docs/fonts/groovy.otf
+cp fonts/groovy.woff docs/fonts/groovy.woff
+cp fonts/groovy.woff2 docs/fonts/groovy.woff2
 
 # Je sais plus quel programme c'était webfont...
 
