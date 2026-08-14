@@ -1,0 +1,27 @@
+{
+"props":
+	{
+	"ascent": 800,
+	"descent": 200,
+	"em": 1000,
+	"family": "Groovy Dev"
+	},
+"input": "svg",
+"output":
+	[
+	"groovy-dev.ttf"
+	],
+"glyphs":
+	{
+	"0x41": "a.svg",
+	"0x42": "b.svg",
+	"0x43": "c.svg",
+	"0x44": "d.svg",
+	"0x45": "e.svg",
+	"0x46": "f.svg",
+	"0x47": "g.svg",
+	"0x48": "h.svg",
+	"0x49": "i.svg",
+	"0x4A": "j.svg"
+	}
+}
