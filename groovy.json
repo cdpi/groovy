@@ -116,10 +116,165 @@
 		"src": "t.svg",
 		"width": 1000
 		},
+	"0x55":
+		{
+		"src": "u.svg",
+		"width": 1000
+		},
+	"0x56":
+		{
+		"src": "v.svg",
+		"width": 1000
+		},
+	"0x57":
+		{
+		"src": "w.svg",
+		"width": 1000
+		},
+	"0x58":
+		{
+		"src": "x.svg",
+		"width": 1000
+		},
+	"0x59":
+		{
+		"src": "y.svg",
+		"width": 1000
+		},
+	"0x5A":
+		{
+		"src": "z.svg",
+		"width": 1000
+		},
 
 	"0x61":
 		{
 		"src": "a.svg",
+		"width": 1000
+		},
+	"0x62":
+		{
+		"src": "b.svg",
+		"width": 1000
+		},
+	"0x63":
+		{
+		"src": "c.svg",
+		"width": 1000
+		},
+	"0x64":
+		{
+		"src": "d.svg",
+		"width": 1000
+		},
+	"0x65":
+		{
+		"src": "e.svg",
+		"width": 1000
+		},
+	"0x66":
+		{
+		"src": "f.svg",
+		"width": 1000
+		},
+	"0x67":
+		{
+		"src": "g.svg",
+		"width": 1000
+		},
+	"0x68":
+		{
+		"src": "h.svg",
+		"width": 1000
+		},
+	"0x69":
+		{
+		"src": "i.svg",
+		"width": 1000
+		},
+	"0x6A":
+		{
+		"src": "j.svg",
+		"width": 1000
+		},
+	"0x6B":
+		{
+		"src": "k.svg",
+		"width": 1000
+		},
+	"0x6C":
+		{
+		"src": "l.svg",
+		"width": 1000
+		},
+	"0x6D":
+		{
+		"src": "m.svg",
+		"width": 1000
+		},
+	"0x6E":
+		{
+		"src": "n.svg",
+		"width": 1000
+		},
+	"0x6F":
+		{
+		"src": "o.svg",
+		"width": 1000
+		},
+	"0x70":
+		{
+		"src": "p.svg",
+		"width": 1000
+		},
+	"0x71":
+		{
+		"src": "q.svg",
+		"width": 1000
+		},
+	"0x72":
+		{
+		"src": "r.svg",
+		"width": 1000
+		},
+	"0x73":
+		{
+		"src": "s.svg",
+		"width": 1000
+		},
+	"0x74":
+		{
+		"src": "t.svg",
+		"width": 1000
+		},
+	"0x75":
+		{
+		"src": "u.svg",
+		"width": 1000
+		},
+	"0x76":
+		{
+		"src": "v.svg",
+		"width": 1000
+		},
+	"0x77":
+		{
+		"src": "w.svg",
+		"width": 1000
+		},
+	"0x78":
+		{
+		"src": "x.svg",
+		"width": 1000
+		},
+	"0x79":
+		{
+		"src": "y.svg",
+		"width": 1000
+		},
+	"0x7A":
+		{
+		"src": "z.svg",
 		"width": 1000
 		}
 	}
