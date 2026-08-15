@@ -1,17 +1,22 @@
 # Groovy
 
-Groovy est une police de caractères dessinée par Patrick Burnens
+Groovy est une police de caractères dessinée par [Patrick Burnens](https://www.burnens.com/) il y a bien bien longtemps...
 
-https://www.burnens.com/
+Et ça fait bien bien longtemps que je devais en faire une version informatique.
+
+J'ai souvent re-re-re-recommencé mais elle est vraiment sympa elle mérite un peu de temps...
+
+## Fait
+
+- Dessiner grossièrement toutes les lettres
+- Redessiner plus fidèlement à l'original (forme car taille je suis pas sur)
+- Version TTF grossière
+
+## En cours
+
+- Taille, largeur et orientatio des caractères (sans changer le design original)
 
 ## Objectifs
 
-- Dessiner grossièrement toutes les lettres :white_check_mark:
-- Redessiner plus fidèlement à l'original (forme car taille je suis pas sur) :white_check_mark:
-- Version TTF grossière :white_check_mark:
-- Taille des caractères
-- Largeur des caractères (pour l'instant tous 1000)
-
-## Avancement
-
-![Groovy](groovy.png "Groovy")
+- Redessiner certains contours pour uniformiser les lettres
+- Version 0.0.0.0.0.0.1

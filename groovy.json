@@ -1,46 +1,22 @@
 {
 "props":
 	{
-	"ascent": 750,
-	"descent": 250,
+	"ascent": 800,
+	"descent": 200,
 	"em": 1000,
-	"family": "Groovy"
+	"family": "Groovy",
+	"version": "0.0.1",
+	"copyright": "WTFPL"
 	},
 "input": "svg",
-"output":
-	[
-	"fonts/groovy.ttf",
-	"fonts/groovy.otf",
-	"fonts/groovy.woff",
-	"fonts/groovy.woff2"
-	],
+"output": ["fonts/groovy.ttf", "fonts/groovy.otf", "fonts/groovy.woff", "fonts/groovy.woff2"],
 "glyphs":
 	{
-	"0x41":
-		{
-		"src": "a.svg",
-		"width": 1000
-		},
-	"0x42":
-		{
-		"src": "b.svg",
-		"width": 1000
-		},
-	"0x43":
-		{
-		"src": "c.svg",
-		"width": 1000
-		},
-	"0x44":
-		{
-		"src": "d.svg",
-		"width": 1000
-		},
-	"0x45":
-		{
-		"src": "e.svg",
-		"width": 1000
-		},
+	"0x41": {"src": "a.svg", "width": 350},
+	"0x42": {"src": "b.svg", "width": 540},
+	"0x43": {"src": "c.svg", "width": 450},
+	"0x44": {"src": "d.svg", "width": 510},
+	"0x45": {"src": "e.svg", "width": 458},
 	"0x46":
 		{
 		"src": "f.svg",
@@ -147,31 +123,11 @@
 		"width": 1000
 		},
 
-	"0x61":
-		{
-		"src": "a.svg",
-		"width": 1000
-		},
-	"0x62":
-		{
-		"src": "b.svg",
-		"width": 1000
-		},
-	"0x63":
-		{
-		"src": "c.svg",
-		"width": 1000
-		},
-	"0x64":
-		{
-		"src": "d.svg",
-		"width": 1000
-		},
-	"0x65":
-		{
-		"src": "e.svg",
-		"width": 1000
-		},
+	"0x61": {"src": "a.svg", "width": 350},
+	"0x62": {"src": "b.svg", "width": 540},
+	"0x63": {"src": "c.svg", "width": 450},
+	"0x64": {"src": "d.svg", "width": 510},
+	"0x65": {"src": "e.svg", "width": 458},
 	"0x66":
 		{
 		"src": "f.svg",
