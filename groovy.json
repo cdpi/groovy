@@ -1,8 +1,8 @@
 {
 "props":
 	{
-	"ascent": 800,
-	"descent": 200,
+	"ascent": 650,
+	"descent": 250,
 	"em": 1000,
 	"family": "Groovy",
 	"version": "0.0.1",
@@ -12,31 +12,17 @@
 "output": ["fonts/groovy.ttf", "fonts/groovy.otf", "fonts/groovy.woff", "fonts/groovy.woff2"],
 "glyphs":
 	{
+	"0x20": {"comment": "Espace mais j'arrive pas à faire fonctionner"},
+
 	"0x41": {"src": "a.svg", "width": 350},
 	"0x42": {"src": "b.svg", "width": 540},
 	"0x43": {"src": "c.svg", "width": 450},
 	"0x44": {"src": "d.svg", "width": 510},
 	"0x45": {"src": "e.svg", "width": 458},
-	"0x46":
-		{
-		"src": "f.svg",
-		"width": 1000
-		},
-	"0x47":
-		{
-		"src": "g.svg",
-		"width": 1000
-		},
-	"0x48":
-		{
-		"src": "h.svg",
-		"width": 1000
-		},
-	"0x49":
-		{
-		"src": "i.svg",
-		"width": 1000
-		},
+	"0x46": {"src": "f.svg", "width": 375},
+	"0x47": {"src": "g.svg", "width": 400},
+	"0x48": {"src": "h.svg", "width": 460},
+	"0x49": {"src": "i.svg", "width": 185},
 	"0x4A":
 		{
 		"src": "j.svg",
@@ -107,11 +93,7 @@
 		"src": "w.svg",
 		"width": 1000
 		},
-	"0x58":
-		{
-		"src": "x.svg",
-		"width": 1000
-		},
+	"0x58": {"src": "x.svg", "width": 475},
 	"0x59":
 		{
 		"src": "y.svg",
@@ -128,26 +110,10 @@
 	"0x63": {"src": "c.svg", "width": 450},
 	"0x64": {"src": "d.svg", "width": 510},
 	"0x65": {"src": "e.svg", "width": 458},
-	"0x66":
-		{
-		"src": "f.svg",
-		"width": 1000
-		},
-	"0x67":
-		{
-		"src": "g.svg",
-		"width": 1000
-		},
-	"0x68":
-		{
-		"src": "h.svg",
-		"width": 1000
-		},
-	"0x69":
-		{
-		"src": "i.svg",
-		"width": 1000
-		},
+	"0x66": {"src": "f.svg", "width": 375},
+	"0x67": {"src": "g.svg", "width": 400},
+	"0x68": {"src": "h.svg", "width": 460},
+	"0x69": {"src": "i.svg", "width": 185},
 	"0x6A":
 		{
 		"src": "j.svg",
@@ -218,11 +184,7 @@
 		"src": "w.svg",
 		"width": 1000
 		},
-	"0x78":
-		{
-		"src": "x.svg",
-		"width": 1000
-		},
+	"0x78": {"src": "x.svg", "width": 475},
 	"0x79":
 		{
 		"src": "y.svg",
