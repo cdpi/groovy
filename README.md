@@ -10,11 +10,12 @@ J'ai souvent re-re-re-recommencé mais elle est vraiment sympa elle mérite un p
 
 - Dessiner grossièrement toutes les lettres
 - Redessiner plus fidèlement à l'original (forme car taille je suis pas sur)
+- Regrouper tous les caractères dans un seul SVG (SVGFont avec Inkscape)
 - Version TTF grossière
 
 ## En cours
 
-- Taille, largeur et orientatio des caractères (sans changer le design original)
+- Taille, largeur et orientation des caractères (sans changer le design original)
 
 ## Objectifs
 
